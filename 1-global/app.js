@@ -1,6 +1,7 @@
+
+const fs = require('fs');
 test = () => {
-    console.log('helloWorld');
+    global.console.log('hell');
+
 };
-test();
-test();
 test();
